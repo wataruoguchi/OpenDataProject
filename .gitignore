@@ -1,0 +1,6 @@
+js/min/
+lib/
+min/
+node_modules/
+index.js
+package.json
